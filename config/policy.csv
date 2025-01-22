@@ -1,0 +1,10 @@
+p, admin, /users, GET
+p, admin, /users, POST
+p, admin, /reports, GET
+p, pelapor, /reports, POST
+p, verifikator, /reports, GET
+p, verifikator, /reports, PUT
+
+g, alice, admin
+g, bob, pelapor
+g, charlie, verifikator
