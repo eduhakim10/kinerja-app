@@ -21,7 +21,7 @@ Aplikasi Manajemen Kinerja adalah aplikasi berbasis web yang memungkinkan penggu
 
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/username/kinerja-app.git
+git clone https://github.com/eduhakim10/kinerja-app.git
  
 
 2. Buat database baru dengan nama kinerja_db kemudian execute query sesuai pada file db.sql pada (root directory)
